@@ -19,10 +19,9 @@ body{
 html{
     scroll-behavior: smooth;
 }
-body{
-    background:#031D44;
+body {
+    background: #031D44;  /* Deep navy/dark blue */
     color: #fff;
-
 }
 #header{
     width: 100%;
